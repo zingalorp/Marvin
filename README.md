@@ -115,6 +115,23 @@ June 2021 with centisecond clocks (Maia-3 doesn't predict think time):
 | Rapid | 9.46 / 9.45 | 5.28 / 5.04 | 22.24 / 22.16 | 2.16 |
 | Under 10 s on the clock | 0.97 / 0.98 | 0.79 / 0.80 | 2.15 / 2.16 | 0.27 |
 
+## Citation
+
+If you use Marvin in your work, please cite our paper:
+[Temporal Conditioning for Human Behavioral Cloning in Chess](https://ieeexplore.ieee.org/document/11747060)
+```bibtex
+@inproceedings{dziwniel2026temporal,
+  author    = {Dziwniel, Victor and Lu, Tianxiang},
+  title     = {Temporal Conditioning for Human Behavioral Cloning in Chess},
+  booktitle = {2026 IEEE Gaming, Entertainment, and Media Conference (GEM)},
+  year      = {2026},
+  pages     = {1--6},
+  publisher = {IEEE},
+  doi       = {10.1109/GEM72276.2026.11747060},
+  url       = {https://doi.org/10.1109/GEM72276.2026.11747060}
+}
+```
+
 ## Acknowledgments
 
 Marvin's architecture builds on Chessformer, from Monroe et al.,
@@ -123,3 +140,4 @@ Marvin's architecture builds on Chessformer, from Monroe et al.,
 ## License
 
 GPL-3.0, see [LICENSE](LICENSE).
+
