@@ -128,7 +128,7 @@ If you use Marvin in your work, please cite our paper:
   pages     = {1--6},
   publisher = {IEEE},
   doi       = {10.1109/GEM72276.2026.11747060},
-  url       = {https://doi.org/10.1109/GEM72276.2026.11747060}
+  url       = {https://arxiv.org/abs/2611.33106}
 }
 ```
 
