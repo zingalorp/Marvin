@@ -118,7 +118,7 @@ June 2021 with centisecond clocks (Maia-3 doesn't predict think time):
 ## Citation
 
 If you use Marvin in your work, please cite our paper:
-[Temporal Conditioning for Human Behavioral Cloning in Chess](https://ieeexplore.ieee.org/document/11747060)
+[Temporal Conditioning for Human Behavioral Cloning in Chess](https://arxiv.org/abs/2611.33106)
 ```bibtex
 @inproceedings{dziwniel2026temporal,
   author    = {Dziwniel, Victor and Lu, Tianxiang},
@@ -128,7 +128,7 @@ If you use Marvin in your work, please cite our paper:
   pages     = {1--6},
   publisher = {IEEE},
   doi       = {10.1109/GEM72276.2026.11747060},
-  url       = {https://arxiv.org/abs/2611.33106}
+  url       = {https://doi.org/10.1109/GEM72276.2026.11747060}
 }
 ```
 
